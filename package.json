@@ -1,0 +1,21 @@
+{
+  "name": "node-huxley-tester",
+  "version": "1.0.0",
+  "description": "node huxley tester",
+  "main": "index.html",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dralc/huxley.git"
+  },
+  "author": "Aloysius Chan <aloysius.chan@news.com.au>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dralc/huxley/issues"
+  },
+  "homepage": "https://github.com/dralc/huxley"
+}
